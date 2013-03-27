@@ -1,6 +1,9 @@
 ## LexEVS 6.0 caCORE SOAP Client
 
 ### Building
+The Maven build tool is required to be installed.
+To build, execute the following command from the root project directory:
+
     mvn clean install
 
 ### Usage
