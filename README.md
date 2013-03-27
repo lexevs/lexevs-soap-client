@@ -1,13 +1,13 @@
-==LexEVS 6.0 caCORE SOAP Client==
+## LexEVS 6.0 caCORE SOAP Client
 
-===Building===
+### Building
     mvn clean install
 
-===Usage===
+### Usage
 Example client usage:
 
 
-```
+```java
 package org.LexGrid.ws;
 
 import gov.nih.nci.lexevsapi60.lexevsapi60.services.lexevsapi60Service.LexEVSWSQueryImpl;
